@@ -1,4 +1,4 @@
-# 🎬 YouTube Video RAG ChatBot Project
+# 🎬 RAG-Based YT_Video Understanding System
 
 An AI-driven chatbot that allows users to **ask questions about any YouTube video** and receive accurate answers based on the video’s content using **Retrieval-Augmented Generation (RAG)** with LangChain and vector embeddings.
 
